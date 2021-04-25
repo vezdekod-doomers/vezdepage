@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/vezdepage/static/css/main.2ea8a1e7.chunk.css",
+    "main.js": "/vezdepage/static/js/main.880630b1.chunk.js",
+    "main.js.map": "/vezdepage/static/js/main.880630b1.chunk.js.map",
+    "runtime-main.js": "/vezdepage/static/js/runtime-main.d2b5179f.js",
+    "runtime-main.js.map": "/vezdepage/static/js/runtime-main.d2b5179f.js.map",
+    "static/css/2.a2ab3232.chunk.css": "/vezdepage/static/css/2.a2ab3232.chunk.css",
+    "static/js/2.b1451349.chunk.js": "/vezdepage/static/js/2.b1451349.chunk.js",
+    "static/js/2.b1451349.chunk.js.map": "/vezdepage/static/js/2.b1451349.chunk.js.map",
+    "static/js/3.794d3a9f.chunk.js": "/vezdepage/static/js/3.794d3a9f.chunk.js",
+    "static/js/3.794d3a9f.chunk.js.map": "/vezdepage/static/js/3.794d3a9f.chunk.js.map",
+    "index.html": "/vezdepage/index.html",
+    "static/css/2.a2ab3232.chunk.css.map": "/vezdepage/static/css/2.a2ab3232.chunk.css.map",
+    "static/css/main.2ea8a1e7.chunk.css.map": "/vezdepage/static/css/main.2ea8a1e7.chunk.css.map",
+    "static/js/2.b1451349.chunk.js.LICENSE.txt": "/vezdepage/static/js/2.b1451349.chunk.js.LICENSE.txt",
+    "static/media/guy.86a9c0e4.jpg": "/vezdepage/static/media/guy.86a9c0e4.jpg",
+    "static/media/piter.9e40c49b.jpg": "/vezdepage/static/media/piter.9e40c49b.jpg",
+    "static/media/vk.0bd5a1dd.svg": "/vezdepage/static/media/vk.0bd5a1dd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2b5179f.js",
+    "static/css/2.a2ab3232.chunk.css",
+    "static/js/2.b1451349.chunk.js",
+    "static/css/main.2ea8a1e7.chunk.css",
+    "static/js/main.880630b1.chunk.js"
+  ]
+}
