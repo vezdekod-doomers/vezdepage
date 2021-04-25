@@ -3,10 +3,16 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "@vkontakte/vkui/dist/vkui.css";
+import {AdaptivityProvider, ConfigProvider} from "@vkontakte/vkui";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+      <ConfigProvider>
+          <AdaptivityProvider>
+            <App />
+          </AdaptivityProvider>
+      </ConfigProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
